@@ -44,3 +44,4 @@ Click Show All/None > Edit Filters > check only ARP and ICMP
 Send ping from PC and click Capture / Forward to step through the packets
 Click the envelope to see how MAC addresses change at the router while IPs remain the same
 
+![Network Topology](LAN_Routed_Network_1)
